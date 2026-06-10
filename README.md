@@ -4,7 +4,7 @@ study artwork "button_pops_01" / bevy 0.16
 
 ## Interactive Demo
 
-https://funatsufumiya.github.io/button_pops_01/
+https://ffunatsu.github.io/button_pops_01/
 
 (Wait patiently for the first time.)
 
